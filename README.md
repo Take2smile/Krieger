@@ -1,4 +1,4 @@
-# Krieger
+# NewsletterSubscription
 
 To run the test:
 
